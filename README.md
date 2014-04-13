@@ -10,7 +10,7 @@ This is a conditional DNS server with an XML file named **records.xml** that def
 &lt;Records&gt;
 	&lt;Record&gt;
 		&lt;RecordType&gt;A&lt;/RecordType&gt;
-		&lt;Name&gt;twitter.com&lt;/Name&gt;
+		&lt;Name&gt;mysite.com&lt;/Name&gt;
 		&lt;Address&gt;192.168.0.104&lt;/Address&gt;
 		&lt;TimeToLive&gt;10&lt;/TimeToLive&gt;
 	&lt;/Record&gt;
